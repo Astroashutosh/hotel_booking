@@ -1,0 +1,27 @@
+table{
+    align-items:center;
+    text-align: center;
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg");
+    width: 500px;
+    height:500px;
+    border-collapse: collapse;
+    border: inset 5px;
+    margin-bottom: 50px;
+}
+    body{
+    background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20230415/pngtree-website-technology-line-dark-background-image_2344719.jpg");
+  }
+  th{
+    font-family:serif;
+    font-size: 30px;
+    color: goldenrod;
+  }
+  td{
+    font-family:serif;
+    font-size: 20px;
+    color:white;
+  }
+  a{
+    color:blue;
+  }
+   

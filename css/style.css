@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+    /* font-weight: bold; */
+  
+}
+
+.newsletter{
+    height: 200px;
+    width:100%;
+    background-color: rgb(66, 68, 66);
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.newsletter .newstext{
+    text-align: center;
+    color: white;
+font-family: serif;
+
+}
+
+.newsletter .newsform input {
+padding: 5px;
+width: 200px;
+border: 0;
+outline: none;
+border-radius: 5px;
+}
+
+.newsletter .newsform button{
+padding: 5px;
+font-family: cursive;
+border: 0;
+background-color: blue;
+color: white;
+border-radius: 5px;
+}
+
+
+.card-title{
+    text-align: center;
+}
+form tr td input{
+    height: 40px;
+    width: 200px;
+    border: 2px solid red;
+}
+ /*
+#write{
+    width:100%;
+    border-radius:4px;
+    padding:8px;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    resize: none;
+    border-bottom: 1px solid;
+}
+
+/* table tr td{
+    width: 400px;
+    height: 500px;
+    border:none;
+}  */
+
+ 
+
+   input{
+    width:100%;
+    height:40px;
+    /* border-radius:5px; */
+      border:none; 
+     padding:10px;
+   
+    margin-top: 20px; 
+}
+   table{
+    height:auto;
+    width:500px;
+    /* background-color:#c7fffd; */
+     border:5px inset; 
+       /* border-radius:5px; 
+       align-items: center;    */
+  }   
+/* .radio{
+    width: auto;
+} */ 
+ .sub{
+    width: 100%;
+    height: 40px;
+    background-color: aquamarine;
+    border:5px outset; 
+} 
+ .re{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+   background-color: aquamarine;
+   border:5px inset; 
+   color:#bf113a;
+
+} 
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        
+        
+            function Add()
+            {
+var a=document.getElementById("t1").value;
+var b=document.getElementById("t2").value;
+var c=document.getElementById("t3").value;
+a=parseInt(a);
+b=parseInt(b);
+c=parseInt(c);
+var d=a+b+c;
+//document.getElementById("p1").innerHTML=c;
+document.getElementById("p1").innerText="Result:"+d;
+         
+        }
+        function Multi()
+            {
+var a=document.getElementById("t1").value;
+var b=document.getElementById("t2").value;
+var c=document.getElementById("t3").value;
+a=parseInt(a);
+b=parseInt(b);
+c=parseInt(c);
+var d=a*b*c;      
+//document.getElementById("p1").innerHTML=c;
+document.getElementById("p1").innerText="Result:"+d;
+         
+        }
+         
+    </script>
+</head>
+<body>
+    Enter A First Number:
+    <input type="number" id="t1"/><br><br>
+    Enter A Second Number:
+    <input type="number" id="t2"/><br><br>
+    Enter A Third Number:
+    <input type="number" id="t3"/><br><br>
+    <p id="p1">Result:</p>
+    <button onclick="Add()">Add</button>
+    <button onclick="Multi()">Multiply</button>
+</body>
+</html>

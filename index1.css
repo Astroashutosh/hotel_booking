@@ -1,0 +1,96 @@
+/* @media screen and (max-width:0px) and (min-width: 600px)
+{
+    .fonts{
+        font-size: 20px;
+    } */
+
+    *{
+      margin: 0;
+      padding: 0;
+      font-family: serif;
+      /* font-weight: bold; */
+    
+  }
+  
+  .newsletter{
+      height: 200px;
+      width:100%;
+      background-color: rgb(66, 68, 66);
+      display: flex;
+      margin-top: 50px;
+      justify-content: center;
+      align-items: center;
+  }
+  
+  .newsletter .newstext{
+      text-align: center;
+      color: white;
+  font-family: serif;
+  
+  }
+  
+  .newsletter .newsform input {
+  padding: 5px;
+  width: 200px;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+  }
+  
+  .newsletter .newsform button{
+  padding: 5px;
+  font-family: cursive;
+  border: 0;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  }
+  
+  
+  .card-title{
+      text-align: center;
+  }
+
+
+  html,body{
+    height: 100%;
+    width: 100%;
+  }
+ .img{
+  transition: all 0.8s ease-in-out; 
+ }
+
+ .img:hover{
+   transform: scale(1.1); 
+  /*opacity: 0.6;*/
+ }
+ .card{
+    transition: all 0.8s ease-in-out; 
+   }
+ .card:hover{
+   transform: scale(1.1); 
+  /*opacity: 0.6;*/
+ }
+ .f {
+  font-family: Gill Sans;
+  font-size: 50px;
+  font-style: normal;
+  color:#8c670a;
+  font-weight: bolder;
+}
+.fonts{
+  font-size: 35px;
+}
+
+
+@media screen and (max-width:0px) and (min-width: 600px)
+{
+    .fonts{
+        font-size: 20px;
+    }
+    button{
+      background-color: #6cf542;
+    }
+
+
+}

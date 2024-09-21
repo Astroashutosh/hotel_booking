@@ -1,0 +1,21 @@
+
+#cru{
+    height:600px;
+}
+h1{
+    font-size:50px;
+    font-weight:bolder;
+    color:#8c670a;
+    margin-top:50px;
+    text-align:center;
+    font-family:serif;
+}
+img{
+    height:300px;
+    width:100%;
+    transition: all 0.8s ease-in-out; 
+}
+img:hover{
+    transform: scale(1.1); 
+   /*opacity: 0.6;*/
+  }
