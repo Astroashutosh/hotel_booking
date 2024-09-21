@@ -156,7 +156,7 @@ h1,h4{
         <div class="col-sm-1"></div>
         <div class="col-sm-5">
             <h1>About Us</h1>
-                <p>Welcome to [Your Hotel Booking System Name], your trusted partner in seamless hotel reservations. With a mission to simplify travel planning, we provide an intuitive platform that connects travelers with a wide range of accommodation options, from budget-friendly hotels to luxurious resorts, across the globe.</p>
+                <p>Welcome to HotelHub, your trusted partner in seamless hotel reservations. With a mission to simplify travel planning, we provide an intuitive platform that connects travelers with a wide range of accommodation options, from budget-friendly hotels to luxurious resorts, across the globe.</p>
 
 <p>Our platform is designed with convenience and flexibility in mind, offering a user-friendly interface that allows you to search, compare, and book the perfect stay. Whether you're planning a business trip, family vacation, or romantic getaway, we have something for every traveler.</p>
 
@@ -166,7 +166,7 @@ h1,h4{
 <h4>Secure & Easy Booking:</h4><p> We prioritize the security of your personal information, ensuring a safe booking process with trusted payment gateways.</p>
 <h4>24/7 Customer Support:</h4><p> Our dedicated customer service team is always here to assist you, ensuring a smooth and worry-free booking experience.</p>
 <h4>Exclusive Deals & Discounts:</h4> <p>Unlock special offers and promotions to make your stay more affordable.
-At [Your Hotel Booking System Name],were not just about finding you a room—were about helping you create memorable experiences. Let us make your next trip a hassle-free one!
+At HotelHub,were not just about finding you a room—were about helping you create memorable experiences. Let us make your next trip a hassle-free one!
 </p>
         </div>
         <div class="col-sm-5">
